@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <title>HBS - Highball Society</title>
+      <!-- Css -->
+      <link href="css/bootstrap.css" rel="stylesheet">
+      <link href="css/style.css" rel="stylesheet">
+      <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+   </head>
+   <body>
+      <nav class="navbar navbar-default color-fill navbar-fixed-top">
+         <div class="col-md-12">
+            <div class="nav">
+               <button class="btn-nav">
+               <span class="icon-bar top"></span>
+               <span class="icon-bar middle"></span>
+               <span class="icon-bar bottom"></span>
+               </button>
+            </div>
+            <a class="navbar-brand" href="index.html">
+            <img class="logo" src="img/logo.png" alt="logo">
+            </a>
+            <div class="nav-content hideNav hidden">
+               <ul class="nav-list vcenter">
+                  <li class="nav-item"><a class="item-anchor" href="index">Home</a></li>
+                  <li class="nav-item"><a class="item-anchor" href="about">About</a></li>
+                  <li class="nav-item"><a class="item-anchor" href="portfolio">Gallery</a></li>
+                  <li class="nav-item"><a class="item-anchor" href="contact">Contact</a></li>
+                  <li class="nav-item"><a class="item-anchor" href="legal">Legal</a></li>
+                  <li class="nav-item"><a class="item-anchor" href="privacy">Privacy</a></li>
+               </ul>
+            </div>
+         </div>
+      </nav>
+      <section id="about">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-12">
+                  <h1>
+                     Curation of the Future
+                     <br>
+                     by HBS
+                  </h1>
+                  <br>
+                  <img class="img-responsive margin-top-45" src="img/4.jpg" alt="me">
+               </div>
+            </div>
+            <br>
+            <div class="row margin-top-45">
+               <div class="col-md-3">
+                  <h2>Our story</h2>
+               </div>
+               <div class="col-md-9">
+                  <p>
+                     We are Highball Society, a group known in the art world for it's diversity in ideas, brands, and people.
+Together with our fashion brands, modern artists, musicians, and so many more creatives, we create visions and an art directions.
+
+You might've seen our logo on your favorite brands social media, though we tend to stay quiet and let our projects and artists speak for itself.
+That's why we feel most comfortable operating in the background, building relationships, meeting new and interesting designers and creating the future of art.
+
+
+                  </p>
+                  <br>
+                  <p>  
+                     You can use our public email hello@societyhb.com to get in touch with us, though you might have to wait a little for a response as our inboxes tend to be quiet full.
+We are also on Instagram @societyHB, and chances are, we are a lot quicker answering on there.
+
+Feel free to message us, and good luck!
+HBS - Owner and curator of creative endeavors
+
+                  </p>
+               </div>
+            </div>
+            <div class="row margin-top-45">
+               <div class="col-md-3">
+                  <h2>In short</h2>
+               </div>
+               <div class="col-md-9">
+                  <p>
+                     We are owner and curator for many fashion and art related brands.
+                  </p>
+               </div>
+            </div>
+            <div class="row margin-top-45">
+               <div class="col-md-3">
+                  <h2>HBS Group</h2>
+               </div>
+               <div class="col-md-9">
+                  <div class="row">
+                     <div class="col-md-4">
+                        <ul class="list-unstyled">
+                           <li>undisclosed</li>
+                           <li>undisclosed</li>
+                           <li>undisclosed</li>
+                           <li>undisclosed</li>
+                        </ul>
+                     </div>
+                     <div class="col-md-4">
+                        <ul class="list-unstyled">
+                           <li>undisclosed</li>
+                           <li>undisclosed</li>
+                           <li>undisclosed</li>
+                           <li>undisclosed</li>
+                        </ul>
+                     </div>
+                     <div class="col-md-4">
+                        <ul class="list-unstyled">
+                           <li>undisclosed</li>
+                           <li>undisclosed</li>
+                           <li>undisclosed</li>
+                           <li>undisclosed</li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- script -->
+      <script src="js/jquery.js"></script>
+      <script src="js/bootstrap.min.js"></script>
+      <script src="js/modernizr.js"></script>
+      <script src="js/script.js"></script>
+   </body>
+</html>
